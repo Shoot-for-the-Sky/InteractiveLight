@@ -1,4 +1,4 @@
-* Interactive light exercise
+# Interactive light exercise
 
 Approach the generator and press E on your keyboard to turn on or off the light of the generator.
 
